@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplitPay.DAL", "SplitPay.DAL\SplitPay.DAL.csproj", "{4BA90417-067E-4061-B6B6-5DE7C3699A6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplitPay.UI", "SplitPay.UI\SplitPay.UI.csproj", "{FA2AB2C6-1755-4C81-9D12-2C93E50F949B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BA90417-067E-4061-B6B6-5DE7C3699A6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BA90417-067E-4061-B6B6-5DE7C3699A6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BA90417-067E-4061-B6B6-5DE7C3699A6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BA90417-067E-4061-B6B6-5DE7C3699A6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA2AB2C6-1755-4C81-9D12-2C93E50F949B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA2AB2C6-1755-4C81-9D12-2C93E50F949B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA2AB2C6-1755-4C81-9D12-2C93E50F949B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA2AB2C6-1755-4C81-9D12-2C93E50F949B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C17D73D-5958-4908-B657-DBCEB2C6AE2A}
+	EndGlobalSection
+EndGlobal
