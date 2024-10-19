@@ -2,6 +2,11 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using SplitPay.DAL.Data;
 using SplitPay.DAL.Models;
+using SplitPay.DAL.Repository.Interface;
+using SplitPay.DAL.Repository;
+using SplitPay.UI.Config;
+using SplitPay.UI.Services.Interfaces;
+using SplitPay.UI.Services;
 
 namespace SplitPay.UI
 {
@@ -10,8 +15,9 @@ namespace SplitPay.UI
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
-
-            // Add services to the container.
+            builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
+            builder.Services.Configure<EmailSettings>(builder.Configuration.GetSection("EmailSettings"));
+            builder.Services.AddScoped<IEmailService, EmailService>();
             builder.Services.AddControllersWithViews();
 
             builder.Services.AddDbContext<CustomDBContext>(
@@ -47,12 +53,10 @@ namespace SplitPay.UI
 
             var app = builder.Build();
 
-            // Configure the HTTP request pipeline.
             if (!app.Environment.IsDevelopment())
             {
                 app.UseExceptionHandler("/Home/Error");
-                // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
-                app.UseHsts();
+               app.UseHsts();
             }
 
             app.UseHttpsRedirection();

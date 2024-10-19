@@ -8,7 +8,7 @@ using SplitPay.UI.Models;
 using SplitPay.UI.Services.Interfaces;
 using System.Linq;
 
-namespace OMMS.UI.Controllers
+namespace SplitPay.UI.Controllers
 {
 	public class LoansController : Controller
 	{

@@ -6,7 +6,7 @@ using SplitPay.UI.Services.Interfaces;
 using System.Web;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
-namespace OMMS.UI.Controllers
+namespace SplitPay.UI.Controllers
 {
     public class AccountController : Controller
     {
@@ -25,7 +25,7 @@ namespace OMMS.UI.Controllers
 
         public IActionResult LogIn()
         {
-            return View();
+            return View("LogIn");
         }
         [HttpPost]
         public async Task<IActionResult> LogIn(LogInVM model)

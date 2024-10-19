@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SplitPay.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a5cc79568a2c545b4993fc5bd018f2ce40f29ca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aed4cadfbf902a18038b904db10329f4aff4d6f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("SplitPay.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SplitPay.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

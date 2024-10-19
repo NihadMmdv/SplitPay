@@ -3,7 +3,7 @@ using SplitPay.DAL.Models;
 using SplitPay.DAL.Repository.Interface;
 using SplitPay.UI.Models;
 
-namespace OMMS.UI.Controllers
+namespace SplitPay.UI.Controllers
 {
     public class CategoriesController : Controller
     {
@@ -16,9 +16,9 @@ namespace OMMS.UI.Controllers
 
         public async Task<IActionResult> Index(int? parentId, string searchCategory)
         {
-            
+
             List<CategoryVM> models = new();
-            if(searchCategory!=null)
+            if (searchCategory != null)
             {
                 var categories = await _categoryRepository.GetAll();
                 List<Category> searchCategories = categories.Where(c => c.Name.ToLower() == searchCategory.ToLower()).ToList();
@@ -30,11 +30,11 @@ namespace OMMS.UI.Controllers
                         Id = category.Id,
                         Name = category.Name,
                         Level = category.Level,
-                        ParentCategory=parentCategory.Name??"No Parent category"
+                        ParentCategory = parentCategory.Name ?? "No Parent category"
                     });
                 }
             }
-            else if(parentId != null) 
+            else if (parentId != null)
             {
                 var categories = await _categoryRepository.GetAll();
                 foreach (var category in categories.Where(c => c.ParentId == parentId).ToList())
@@ -49,6 +49,6 @@ namespace OMMS.UI.Controllers
             }
             return View(models);
         }
-        
+
     }
 }

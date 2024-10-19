@@ -5,7 +5,7 @@ using SplitPay.DAL.Models;
 using SplitPay.DAL.Repository.Interface;
 using SplitPay.UI.Models;
 
-namespace OMMS.UI.Controllers
+namespace SplitPay.UI.Controllers
 {
 	[Authorize(Roles ="Admin,Branch")]
 	public class EmployeesController : Controller

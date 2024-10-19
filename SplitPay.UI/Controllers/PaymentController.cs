@@ -4,7 +4,7 @@ using SplitPay.DAL.Models;
 using SplitPay.DAL.Repository.Interface;
 using SplitPay.UI.Models;
 
-namespace OMMS.UI.Controllers
+namespace SplitPay.UI.Controllers
 {
 	[Route("api/[controller]")]
 	[ApiController]

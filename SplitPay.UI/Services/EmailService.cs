@@ -6,7 +6,7 @@ using SplitPay.UI.Config;
 using Microsoft.Extensions.Options;
 using SplitPay.DAL.Models;
 
-namespace OMMS.UI.Services
+namespace SplitPay.UI.Services
 {
 	public class EmailService : IEmailService
 	{

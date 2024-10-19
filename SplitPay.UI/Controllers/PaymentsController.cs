@@ -5,7 +5,7 @@ using SplitPay.DAL.Repository.Interface;
 using SplitPay.UI.Enums;
 using SplitPay.UI.Models;
 
-namespace OMMS.UI.Controllers
+namespace SplitPay.UI.Controllers
 {
 	public class PaymentsController : Controller
 	{

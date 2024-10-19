@@ -15,7 +15,7 @@ namespace SplitPay.UI.Models
         public string? UserName { get; set; }
         public List<AppUser> Users { get; set; }
         public List<Loan> Loans { get; set; }
-        public List<LoanItem> LoanItems { get; set; }
+        public List<LoanItemVM> LoanItems { get; set; }
         public LoanDetail LoanDetail { get; set; }
     }
 }
