@@ -1,0 +1,15 @@
+C:\Users\Lenovo 2024\Desktop\Code Academy\SplitPay\SplitPay.DAL\bin\Debug\net8.0\SplitPay.DAL.deps.json
+C:\Users\Lenovo 2024\Desktop\Code Academy\SplitPay\SplitPay.DAL\bin\Debug\net8.0\SplitPay.DAL.runtimeconfig.json
+C:\Users\Lenovo 2024\Desktop\Code Academy\SplitPay\SplitPay.DAL\bin\Debug\net8.0\SplitPay.DAL.dll
+C:\Users\Lenovo 2024\Desktop\Code Academy\SplitPay\SplitPay.DAL\bin\Debug\net8.0\SplitPay.DAL.pdb
+C:\Users\Lenovo 2024\Desktop\Code Academy\SplitPay\SplitPay.DAL\obj\Debug\net8.0\SplitPay.DAL.csproj.AssemblyReference.cache
+C:\Users\Lenovo 2024\Desktop\Code Academy\SplitPay\SplitPay.DAL\obj\Debug\net8.0\SplitPay.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo 2024\Desktop\Code Academy\SplitPay\SplitPay.DAL\obj\Debug\net8.0\SplitPay.DAL.AssemblyInfoInputs.cache
+C:\Users\Lenovo 2024\Desktop\Code Academy\SplitPay\SplitPay.DAL\obj\Debug\net8.0\SplitPay.DAL.AssemblyInfo.cs
+C:\Users\Lenovo 2024\Desktop\Code Academy\SplitPay\SplitPay.DAL\obj\Debug\net8.0\SplitPay.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo 2024\Desktop\Code Academy\SplitPay\SplitPay.DAL\obj\Debug\net8.0\SplitPay.DAL.sourcelink.json
+C:\Users\Lenovo 2024\Desktop\Code Academy\SplitPay\SplitPay.DAL\obj\Debug\net8.0\SplitPay.DAL.dll
+C:\Users\Lenovo 2024\Desktop\Code Academy\SplitPay\SplitPay.DAL\obj\Debug\net8.0\refint\SplitPay.DAL.dll
+C:\Users\Lenovo 2024\Desktop\Code Academy\SplitPay\SplitPay.DAL\obj\Debug\net8.0\SplitPay.DAL.pdb
+C:\Users\Lenovo 2024\Desktop\Code Academy\SplitPay\SplitPay.DAL\obj\Debug\net8.0\SplitPay.DAL.genruntimeconfig.cache
+C:\Users\Lenovo 2024\Desktop\Code Academy\SplitPay\SplitPay.DAL\obj\Debug\net8.0\ref\SplitPay.DAL.dll

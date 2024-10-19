@@ -3,52 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo 2024\\Desktop\\Code Academy\\SplitPay\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA2AB2C6-1755-4C81-9D12-2C93E50F949B}|SplitPay.UI\\SplitPay.UI.csproj|c:\\users\\lenovo 2024\\desktop\\code academy\\splitpay\\splitpay.ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA2AB2C6-1755-4C81-9D12-2C93E50F949B}|SplitPay.UI\\SplitPay.UI.csproj|solutionrelative:splitpay.ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA2AB2C6-1755-4C81-9D12-2C93E50F949B}|SplitPay.UI\\SplitPay.UI.csproj|c:\\users\\lenovo 2024\\desktop\\code academy\\splitpay\\splitpay.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA2AB2C6-1755-4C81-9D12-2C93E50F949B}|SplitPay.UI\\SplitPay.UI.csproj|solutionrelative:splitpay.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA2AB2C6-1755-4C81-9D12-2C93E50F949B}|SplitPay.UI\\SplitPay.UI.csproj|c:\\users\\lenovo 2024\\desktop\\code academy\\splitpay\\splitpay.ui\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FA2AB2C6-1755-4C81-9D12-2C93E50F949B}|SplitPay.UI\\SplitPay.UI.csproj|solutionrelative:splitpay.ui\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BA90417-067E-4061-B6B6-5DE7C3699A6B}|SplitPay.DAL\\SplitPay.DAL.csproj|c:\\users\\lenovo 2024\\desktop\\code academy\\splitpay\\splitpay.dal\\data\\customdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BA90417-067E-4061-B6B6-5DE7C3699A6B}|SplitPay.DAL\\SplitPay.DAL.csproj|solutionrelative:splitpay.dal\\data\\customdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA2AB2C6-1755-4C81-9D12-2C93E50F949B}|SplitPay.UI\\SplitPay.UI.csproj|c:\\users\\lenovo 2024\\desktop\\code academy\\splitpay\\splitpay.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FA2AB2C6-1755-4C81-9D12-2C93E50F949B}|SplitPay.UI\\SplitPay.UI.csproj|solutionrelative:splitpay.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA2AB2C6-1755-4C81-9D12-2C93E50F949B}|SplitPay.UI\\SplitPay.UI.csproj|c:\\users\\lenovo 2024\\desktop\\code academy\\splitpay\\splitpay.ui\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FA2AB2C6-1755-4C81-9D12-2C93E50F949B}|SplitPay.UI\\SplitPay.UI.csproj|solutionrelative:splitpay.ui\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BA90417-067E-4061-B6B6-5DE7C3699A6B}|SplitPay.DAL\\SplitPay.DAL.csproj|c:\\users\\lenovo 2024\\desktop\\code academy\\splitpay\\splitpay.dal\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BA90417-067E-4061-B6B6-5DE7C3699A6B}|SplitPay.DAL\\SplitPay.DAL.csproj|solutionrelative:splitpay.dal\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BA90417-067E-4061-B6B6-5DE7C3699A6B}|SplitPay.DAL\\SplitPay.DAL.csproj|c:\\users\\lenovo 2024\\desktop\\code academy\\splitpay\\splitpay.dal\\repository\\interface\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BA90417-067E-4061-B6B6-5DE7C3699A6B}|SplitPay.DAL\\SplitPay.DAL.csproj|solutionrelative:splitpay.dal\\repository\\interface\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BA90417-067E-4061-B6B6-5DE7C3699A6B}|SplitPay.DAL\\SplitPay.DAL.csproj|c:\\users\\lenovo 2024\\desktop\\code academy\\splitpay\\splitpay.dal\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BA90417-067E-4061-B6B6-5DE7C3699A6B}|SplitPay.DAL\\SplitPay.DAL.csproj|solutionrelative:splitpay.dal\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BA90417-067E-4061-B6B6-5DE7C3699A6B}|SplitPay.DAL\\SplitPay.DAL.csproj|c:\\users\\lenovo 2024\\desktop\\code academy\\splitpay\\splitpay.dal\\models\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BA90417-067E-4061-B6B6-5DE7C3699A6B}|SplitPay.DAL\\SplitPay.DAL.csproj|solutionrelative:splitpay.dal\\models\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BA90417-067E-4061-B6B6-5DE7C3699A6B}|SplitPay.DAL\\SplitPay.DAL.csproj|c:\\users\\lenovo 2024\\desktop\\code academy\\splitpay\\splitpay.dal\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BA90417-067E-4061-B6B6-5DE7C3699A6B}|SplitPay.DAL\\SplitPay.DAL.csproj|solutionrelative:splitpay.dal\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BA90417-067E-4061-B6B6-5DE7C3699A6B}|SplitPay.DAL\\SplitPay.DAL.csproj|c:\\users\\lenovo 2024\\desktop\\code academy\\splitpay\\splitpay.dal\\models\\merchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BA90417-067E-4061-B6B6-5DE7C3699A6B}|SplitPay.DAL\\SplitPay.DAL.csproj|solutionrelative:splitpay.dal\\models\\merchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA2AB2C6-1755-4C81-9D12-2C93E50F949B}|SplitPay.UI\\SplitPay.UI.csproj|c:\\users\\lenovo 2024\\desktop\\code academy\\splitpay\\splitpay.ui\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2AB2C6-1755-4C81-9D12-2C93E50F949B}|SplitPay.UI\\SplitPay.UI.csproj|solutionrelative:splitpay.ui\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -63,157 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo 2024\\Desktop\\Code Academy\\SplitPay\\SplitPay.UI\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "SplitPay.UI\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Lenovo 2024\\Desktop\\Code Academy\\SplitPay\\SplitPay.UI\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "SplitPay.UI\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo 2024\\Desktop\\Code Academy\\SplitPay\\SplitPay.UI\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "SplitPay.UI\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\Lenovo 2024\\Desktop\\Code Academy\\SplitPay\\SplitPay.UI\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "SplitPay.UI\\Controllers\\CustomersController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAYwEIAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T05:21:25.163Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo 2024\\Desktop\\Code Academy\\SplitPay\\SplitPay.UI\\Program.cs",
-              "RelativeDocumentMoniker": "SplitPay.UI\\Program.cs",
-              "ToolTip": "C:\\Users\\Lenovo 2024\\Desktop\\Code Academy\\SplitPay\\SplitPay.UI\\Program.cs",
-              "RelativeToolTip": "SplitPay.UI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T05:10:11.466Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo 2024\\Desktop\\Code Academy\\SplitPay\\SplitPay.UI\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "SplitPay.UI\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo 2024\\Desktop\\Code Academy\\SplitPay\\SplitPay.UI\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "SplitPay.UI\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-10T05:07:55.256Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Lenovo 2024\\Desktop\\Code Academy\\SplitPay\\SplitPay.UI\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "SplitPay.UI\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Lenovo 2024\\Desktop\\Code Academy\\SplitPay\\SplitPay.UI\\Properties\\launchSettings.json",
-              "RelativeToolTip": "SplitPay.UI\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-10T05:04:52.965Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo 2024\\Desktop\\Code Academy\\SplitPay\\SplitPay.DAL\\Repository\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "SplitPay.DAL\\Repository\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\Lenovo 2024\\Desktop\\Code Academy\\SplitPay\\SplitPay.DAL\\Repository\\GenericRepository.cs",
-              "RelativeToolTip": "SplitPay.DAL\\Repository\\GenericRepository.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAUwDAAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T04:50:02.261Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo 2024\\Desktop\\Code Academy\\SplitPay\\SplitPay.DAL\\Repository\\Interface\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "SplitPay.DAL\\Repository\\Interface\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\Lenovo 2024\\Desktop\\Code Academy\\SplitPay\\SplitPay.DAL\\Repository\\Interface\\IGenericRepository.cs",
-              "RelativeToolTip": "SplitPay.DAL\\Repository\\Interface\\IGenericRepository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T04:48:45.27Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AppRole.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo 2024\\Desktop\\Code Academy\\SplitPay\\SplitPay.DAL\\Models\\AppRole.cs",
-              "RelativeDocumentMoniker": "SplitPay.DAL\\Models\\AppRole.cs",
-              "ToolTip": "C:\\Users\\Lenovo 2024\\Desktop\\Code Academy\\SplitPay\\SplitPay.DAL\\Models\\AppRole.cs",
-              "RelativeToolTip": "SplitPay.DAL\\Models\\AppRole.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T04:46:59.611Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo 2024\\Desktop\\Code Academy\\SplitPay\\SplitPay.DAL\\Models\\AppUser.cs",
-              "RelativeDocumentMoniker": "SplitPay.DAL\\Models\\AppUser.cs",
-              "ToolTip": "C:\\Users\\Lenovo 2024\\Desktop\\Code Academy\\SplitPay\\SplitPay.DAL\\Models\\AppUser.cs",
-              "RelativeToolTip": "SplitPay.DAL\\Models\\AppUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T14:42:22.356Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Merchant.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo 2024\\Desktop\\Code Academy\\SplitPay\\SplitPay.DAL\\Models\\Merchant.cs",
-              "RelativeDocumentMoniker": "SplitPay.DAL\\Models\\Merchant.cs",
-              "ToolTip": "C:\\Users\\Lenovo 2024\\Desktop\\Code Academy\\SplitPay\\SplitPay.DAL\\Models\\Merchant.cs",
-              "RelativeToolTip": "SplitPay.DAL\\Models\\Merchant.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T14:39:34.87Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo 2024\\Desktop\\Code Academy\\SplitPay\\SplitPay.DAL\\Models\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "SplitPay.DAL\\Models\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\Lenovo 2024\\Desktop\\Code Academy\\SplitPay\\SplitPay.DAL\\Models\\BaseEntity.cs",
-              "RelativeToolTip": "SplitPay.DAL\\Models\\BaseEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T14:38:46.89Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Lenovo 2024\\Desktop\\Code Academy\\SplitPay\\SplitPay.UI\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "SplitPay.UI\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Lenovo 2024\\Desktop\\Code Academy\\SplitPay\\SplitPay.UI\\appsettings.Development.json",
-              "RelativeToolTip": "SplitPay.UI\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-06T14:32:42.024Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CustomDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo 2024\\Desktop\\Code Academy\\SplitPay\\SplitPay.DAL\\Data\\CustomDBContext.cs",
-              "RelativeDocumentMoniker": "SplitPay.DAL\\Data\\CustomDBContext.cs",
-              "ToolTip": "C:\\Users\\Lenovo 2024\\Desktop\\Code Academy\\SplitPay\\SplitPay.DAL\\Data\\CustomDBContext.cs",
-              "RelativeToolTip": "SplitPay.DAL\\Data\\CustomDBContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T14:29:32.274Z",
+              "WhenOpened": "2024-10-19T17:43:48.641Z",
               "EditorCaption": ""
             }
           ]

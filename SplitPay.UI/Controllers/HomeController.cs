@@ -15,6 +15,7 @@ namespace SplitPay.UI.Controllers
 
         public IActionResult Index()
         {
+            
             return View();
         }
 

@@ -6,10 +6,13 @@ using System.Threading.Tasks;
 
 namespace SplitPay.DAL.Models
 {
-    public class Merchant
+    public class Merchant:BaseEntity
     {
         public string Name { get; set; }
         public string Description { get; set; }
-        public int TerminalNo { get; set; }
+        public string TerminalNo { get; set; }
+        public string AppUserId { get; set; }
+        public AppUser AppUser { get; set; }
+        public List<Branch> Branchs { get; set; }
     }
 }
